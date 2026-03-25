@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm Bhargav Chalodiya
 
 💻 Full Stack Developer  
-🧠 Problem Solver | Web Developer | Blockchain Learner  
+🧠 Problem Solver | Web Developer | Machine Learning | Artifical Intelligence
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bhargav-611)
 
@@ -48,12 +48,18 @@ Here are some ideas to get you started:
 
 ## 🌐 Coding Profiles
 
-![LeetCode](https://img.shields.io/badge/LeetCode-orange)
-![CodeChef](https://img.shields.io/badge/CodeChef-brown)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/Bhargav611)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue)](https://codeforces.com/profile/bhargav_611)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Bhargav-611)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/bhargav-chalodiya-869207291)
 
 GitHub: https://github.com/Bhargav-611
+LeetCode: https://leetcode.com/u/Bhargav611
+Codeforces: https://codeforces.com/profile/bhargav_611
+LinkedIn: https://linkedin.com/in/bhargav-chalodiya-869207291
 
 ---
 
