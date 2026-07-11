@@ -21,14 +21,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhargav-611&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav-611&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,react,nodejs,spring,django,mysql,mongodb,python,git,github,cpp,c)
@@ -37,11 +29,13 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
+- 🔹 AI Answer Sheet Evaluator (React + Spring Boot + Python + AI + ML + Pipeline)
+- 🔹 Swara Music Detection ( Python + DSP + Audio processing )
+- 🔹 Smart Attendance System ( Django + pyzbar + React )
+- 🔹 LinkedIn Clone (MERN Stack)
 - 🔹 PLM ECO System (MERN + Odoo)
 - 🔹 Lost & Found System (Spring Boot + MySQL)
-- 🔹 LinkedIn Clone (MERN Stack)
 - 🔹 DID Blockchain Identity System
-- 🔹 AI Answer Sheet Evaluator
 - 🔹 Tour Management System (PHP)
 
 ---
